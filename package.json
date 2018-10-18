@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/majorazero/testPolymer/issues"
   },
-  "homepage": "https://github.com/majorazero/testPolymer#readme"
+  "homepage": "https://github.com/majorazero/testPolymer#readme",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.5",
+    "Polymer": "^1.6.1--",
+    "express": "^4.16.4"
+  }
 }
