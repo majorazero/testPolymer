@@ -1,0 +1,20 @@
+{
+  "name": "testPolymer",
+  "version": "1.0.0",
+  "description": "Testing polymer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majorazero/testPolymer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majorazero/testPolymer/issues"
+  },
+  "homepage": "https://github.com/majorazero/testPolymer#readme"
+}
